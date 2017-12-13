@@ -8,6 +8,7 @@
     "assert-plus": "^1.0.0",
     "bytes": "^3.0.0",
     "cryptiles": "^4.1.1",
+    "crypto": "^1.0.1",
     "delayed-stream": "^1.0.0",
     "ejs": "^2.5.7",
     "heredoc": "^1.3.1",
